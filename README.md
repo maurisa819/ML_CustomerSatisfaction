@@ -55,7 +55,7 @@ I used:
 - **RandomOverSampler**  
 - XGBoost's internal weighting mechanism  
 
-### 🔹 Models Used  
+### Models Used  
 - **Random Forest**  
 - **XGBoost**
 
@@ -86,12 +86,12 @@ Hyperparameter tuning was performed with **RandomizedSearchCV**, and final model
 
 ## Final Model Performance
 
-### 🔹 XGBoost (Best for Positive Class)
+### XGBoost (Best for Positive Class)
 - **F1 Score:** 0.484  
 - **Recall:** 0.575  
 - **AUC:** 0.761  
 
-### 🔹 Random Forest (Best Overall Accuracy)
+### Random Forest (Best Overall Accuracy)
 - **Accuracy:** 0.847  
 - **F1 Score:** 0.439  
 - **AUC:** 0.751  
