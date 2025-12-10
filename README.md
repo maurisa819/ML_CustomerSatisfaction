@@ -61,7 +61,7 @@ I used:
 
 Chosen because they handle non-linear feature interactions and provide interpretable feature importance.
 
-### 🔹 Evaluation Metrics  
+### Evaluation Metrics  
 - Accuracy  
 - Precision  
 - Recall  
